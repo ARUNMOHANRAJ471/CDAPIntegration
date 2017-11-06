@@ -1,0 +1,161 @@
+[{
+  "name": "plan2",
+  "key": "PLA2",
+  "score": 60,
+  "stages": [{
+    "name": "stage2",
+    "score": 70,
+    "jobs": [{
+      "score": {
+        "low": 80,
+        "high": 0
+      },
+      "taskExe": {
+        "low": 0,
+        "high": 0
+      },
+      "name": "job3",
+      "totalTask": {
+        "low": 0,
+        "high": 0
+      }
+    }]
+  }, {
+    "name": "stage3",
+    "score": 70,
+    "jobs": [{
+      "score": {
+        "low": 80,
+        "high": 0
+      },
+      "taskExe": {
+        "low": 0,
+        "high": 0
+      },
+      "name": "job5",
+      "totalTask": {
+        "low": 0,
+        "high": 0
+      }
+    }]
+  }, {
+    "name": "stage1",
+    "score": 70,
+    "jobs": [{
+      "score": {
+        "low": 80,
+        "high": 0
+      },
+      "taskExe": {
+        "low": 0,
+        "high": 0
+      },
+      "name": "job1",
+      "totalTask": {
+        "low": 0,
+        "high": 0
+      }
+    }]
+  }]
+}, {
+  "name": "plan1",
+  "key": "PLA1",
+  "score": 60,
+  "stages": [{
+    "name": "stage3",
+    "score": 70,
+    "jobs": [{
+      "score": {
+        "low": 80,
+        "high": 0
+      },
+      "taskExe": {
+        "low": 0,
+        "high": 0
+      },
+      "name": "job6",
+      "totalTask": {
+        "low": 0,
+        "high": 0
+      }
+    }, {
+      "score": {
+        "low": 80,
+        "high": 0
+      },
+      "taskExe": {
+        "low": 0,
+        "high": 0
+      },
+      "name": "job5",
+      "totalTask": {
+        "low": 0,
+        "high": 0
+      }
+    }]
+  }, {
+    "name": "stage2",
+    "score": 70,
+    "jobs": [{
+      "score": {
+        "low": 80,
+        "high": 0
+      },
+      "taskExe": {
+        "low": 0,
+        "high": 0
+      },
+      "name": "job4",
+      "totalTask": {
+        "low": 0,
+        "high": 0
+      }
+    }, {
+      "score": {
+        "low": 80,
+        "high": 0
+      },
+      "taskExe": {
+        "low": 0,
+        "high": 0
+      },
+      "name": "job3",
+      "totalTask": {
+        "low": 0,
+        "high": 0
+      }
+    }]
+  }, {
+    "name": "stage1",
+    "score": 70,
+    "jobs": [{
+      "score": {
+        "low": 80,
+        "high": 0
+      },
+      "taskExe": {
+        "low": 0,
+        "high": 0
+      },
+      "name": "job2",
+      "totalTask": {
+        "low": 0,
+        "high": 0
+      }
+    }, {
+      "score": {
+        "low": 80,
+        "high": 0
+      },
+      "taskExe": {
+        "low": 0,
+        "high": 0
+      },
+      "name": "job1",
+      "totalTask": {
+        "low": 0,
+        "high": 0
+      }
+    }]
+  }]
+}]
